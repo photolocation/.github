@@ -48,5 +48,5 @@ GeoSpy is available in multiple languages to serve our global community, includi
 
 ---
 
-Explore the world through images with GeoSpy - your AI-powered location detective!
+Explore the world through images with GeoSpy(geospy.net) - your AI-powered location detective!
 
