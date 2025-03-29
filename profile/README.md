@@ -1,4 +1,4 @@
-# GeoSpy.net - AI-Powered Image Location Detector
+# GeoSpy(https://geospy.net) - AI-Powered Image Location Detector
 
 ![GeoSpy Banner](https://geospy.net/img/banner.png)
 
@@ -47,4 +47,4 @@ GeoSpy is available in multiple languages to serve our global community, includi
 
 ---
 
-Explore the world through images with GeoSpy(geospy.net) - your AI-powered location detective!
+Explore the world through images with GeoSpy(https://geospy.net) - your AI-powered location detective!
